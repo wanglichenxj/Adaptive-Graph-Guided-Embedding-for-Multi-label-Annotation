@@ -22,8 +22,8 @@ Welcome to send us Emails if you have any questions about the code and our work 
 * **Zhengming Ding** [Website](http://allanding.net/)
 * **Yun Raymond Fu** [Website](http://www1.ece.neu.edu/~yunfu/)
 
-## Papers
-This code is corresponding to our AAAI 2018 paper below:
+## Citation
+This code is corresponding to our IJCAI 2018 paper below:
 ```
 @inproceedings{AG2E_IJCAI18_Lichen,
   title={Adaptive Graph Guided Embedding for Multi-label Annotation.},
