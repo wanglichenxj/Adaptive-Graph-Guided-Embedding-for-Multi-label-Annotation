@@ -137,7 +137,7 @@ for loop=1:7
         ' retri=',num2str(retrieved)]);    
 end
 
-% Get average performance
+% Get average performance for the last 3 samples
 pre_res = mean(pre_m(end-3:end));
 rec_res = mean(rec_m(end-3:end));
 f1_res = mean(f1_m(end-3:end));
