@@ -14,7 +14,11 @@ Multi-label annotation is challenging since a large amount of well-labeled train
 The annotation results above demonstrates the effectiveness and high robustness of our approach.
 
 ## Running the code
-The code is MATLAB code works in Ubuntu system. Windows system may need minor revision in the folder name. Direct diwnload the code and run AG2E_demo.m.
+The code is MATLAB code works in Ubuntu system. Windows system may need minor revision in the folder name. (Change the folder name xx/xx (Linux system) to xx\xx (Windows version)) should works well to switch the version between these to systems.
+
+Code file introduction:
+AG2E_demo.m -- Directly run this demo file in MATLAB could show the performance similar to our paper. It contains the dataset loading, AG2E approach function, and results output sections.
+AG2E.m -- It's the implementation of AG2E approach. Please find the specific input/output instructions in the function comments.
 
 ## Authors
 Welcome to send us Emails if you have any questions about the code and our work :-)
