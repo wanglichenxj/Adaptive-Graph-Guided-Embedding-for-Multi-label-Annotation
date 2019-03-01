@@ -18,6 +18,7 @@ The code is MATLAB code works in Ubuntu system. Windows system may need minor re
 
 Code file introduction:
 AG2E_demo.m -- Directly run this demo file in MATLAB could show the performance similar to our paper. It contains the dataset loading, AG2E approach function, and results output sections.
+
 AG2E.m -- It's the implementation of AG2E approach. Please find the specific input/output instructions in the function comments.
 
 ## Authors
