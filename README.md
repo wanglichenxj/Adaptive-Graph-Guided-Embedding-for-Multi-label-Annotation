@@ -1,5 +1,5 @@
 # Adaptive Graph Guided Embedding for Multi-label Annotation
-This repository contains code for our IJCAI 18 paper: [Adaptive Graph Guided Embedding for Multi-label Annotation](https://github.com/wanglichenxj/AG2E_Multi_Label/blob/master/Presentation/AG2E_multi_label_IJCAI18_Lichen.pdf) (AG2E). AG2E utiluzes existing small scale multi-label datasets to recovery/annotate the large scale images in semi-supervised scenario. It designed an adaptive graph and a domain-invariable projection, which trained simultaneously to achieve the high performance.
+This repository contains code for our International Joint Conferences on Artificial Intelligence (IJCAI) 2018 paper: [Adaptive Graph Guided Embedding for Multi-label Annotation](https://github.com/wanglichenxj/AG2E_Multi_Label/blob/master/Presentation/AG2E_multi_label_IJCAI18_Lichen.pdf) (AG2E). AG2E utiluzes existing small scale multi-label datasets to recovery/annotate the large scale images in semi-supervised scenario. It designed an adaptive graph and a domain-invariable projection, which trained simultaneously to achieve the high performance.
 
 <div align="center">
     <img src="Presentation/AG2E_framework.png", width="450">
