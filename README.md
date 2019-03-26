@@ -34,7 +34,7 @@ This code is corresponding to our IJCAI 2018 paper below:
 @inproceedings{AG2E_IJCAI18_Lichen,
   title={Adaptive Graph Guided Embedding for Multi-label Annotation.},
   author={Wang, Lichen and Ding, Zhengming and Fu, Yun},
-  booktitle={IJCAI},
+  booktitle={International Joint Conferences on Artificial Intelligence, IJCAI},
   pages={2798--2804},
   year={2018}
 }
